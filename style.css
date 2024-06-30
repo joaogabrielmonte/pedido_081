@@ -1,0 +1,29 @@
+@import url('https://fonts.cdnfonts.com/css/valentine-day');
+
+*{
+    font-family: 'Valentine Day', sans-serif;
+    color: #001575;    
+}
+
+.container {
+    background: #00bdf0;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 10;
+    left: -10px;
+    padding: 0.6rem;
+    text-align: center;
+    margin-bottom: initial;
+}
+
+.container button {
+ background-color: rgb(230, 225, 225);   
+ border-radius:25px;
+ font-size: larger;
+ align-items: center;
+ border: none;
+ padding: 0.2rem;
+ width: 60px;
+}
